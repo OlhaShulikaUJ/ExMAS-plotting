@@ -5,3 +5,6 @@ We conducted the experiment based on actual trip requests in New York City from 
 All parameters are assumed constant during the analysis except for the sharing discount. To mention the few most important, we assume the value of time to be 12.6 $/h, price of 1.5 $/km; and willingness to share at level 1.3. 
 
 The discount level for ride-pooling is 0.32. 
+
+
+Kucharski R. Shulika O., Bujak M., Ghasemi F., 2022
