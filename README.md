@@ -10,4 +10,4 @@ All parameters are assumed constant during the analysis. To mention the few most
 The discount level for ride-pooling is 0.32. 
 
 
-Kucharski R. Shulika O., Bujak M., Ghasemi F., 2022
+Kucharski R., Shulika O., Bujak M., Ghasemi F., 2022/2023
