@@ -1,0 +1,4 @@
+sample of the demand used in ExMAS -'City_requests.csv'
+default configuration - 'default.json'
+sample of the network downloaded from omsnx and used in ExMAS, etc., and the sample of output data (KPIs, rides, schedule,  requests) - 'ExMAS(sample).ipynb'
+html version of Notebook - 'ExMAS(sample).html'
