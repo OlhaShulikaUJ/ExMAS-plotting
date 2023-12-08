@@ -10,7 +10,7 @@ All parameters are assumed constant during the analysis. To mention the few most
 
 The discount level for ride-pooling is 0.32. 
 
-The results of applying the ExMAS algorithm [https://github.com/RafalKucharskiPK/ExMAS/tree/master/ExMAS] are presented in the file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/KPI/KPI_resultsNYC.csv].
+The data obtained from applying the ExMAS algorithm [https://github.com/RafalKucharskiPK/ExMAS/tree/master/ExMAS] is contained in the file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/KPI/KPI_resultsNYC.csv].
 
 To analyse raid-hailing trip demand, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/NYC DEMAND.ipynb].
 
