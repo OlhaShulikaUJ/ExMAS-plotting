@@ -14,8 +14,8 @@ The data obtained from applying the ExMAS algorithm [https://github.com/RafalKuc
 
 To analyse ride-hailing trip demand, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/NYC DEMAND.ipynb].
 
-To analyse KPIs, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/mainNYC KPI DA.ipynb]. To create a figure to observe how the price (discount) affects pooling performance, you will also need a file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/df.csv] containing the results of applying the algorithm at discount levels of 0.2, 0.24, 0.28.
+To analyse KPIs, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/NYC KPI DA.ipynb]. To create a figure to observe how the price (discount) affects pooling performance, you will also need a file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/df.csv] containing the results of applying the algorithm at discount levels of 0.2, 0.24, 0.28.
 
-To plot hexagons, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/mainplot_hexagons.ipynb].
+To plot hexagons, it is necessary to use this file [https://github.com/OlhaShulikaUJ/ExMAS-plotting/tree/main/plot_hexagons.ipynb].
 
 Kucharski R., Shulika O., Bujak M., Ghasemi F., 2022/2023
