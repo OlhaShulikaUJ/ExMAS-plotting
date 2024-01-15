@@ -1,0 +1,4 @@
+,VehHourTrav,VehHourTrav_ns,PassHourTrav,PassHourTrav_ns,PassUtility,PassUtility_ns,mean_lambda,revenue_s,revenue_ns,Fare_Discount,nR,SINGLE,PAIRS,TRIPLES,QUADRIPLES,QUINTETS,PLUS5,shared_ratio,fleet_size_nonshared,fleet_size_shared,lambda_shared,_typ,dtype,Replication,Batch,shared_discount,Start_time,End_time,Demand_size
+0,4644,4644,4644,4644,55.821,55.821,,6269.4,6966,-0.1,26,26,0,0,0,0,0,0,6,6,0,DotMap(_typ=DotMap()),DotMap(),,,,,,
+1,25601,25601,25601,25601,307.701,307.701,,34561.35,38401.5,-0.1,133,133,0,0,0,0,0,0,27,27,0,DotMap(_typ=DotMap()),DotMap(),,,,,,
+2,52767,52767,52767,52767,634.1865,634.1865,,71235.45,79150.5,-0.1,266,266,0,0,0,0,0,0,39,39,0,DotMap(_typ=DotMap()),DotMap(),,,,,,
