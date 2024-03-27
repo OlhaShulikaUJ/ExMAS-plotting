@@ -1,6 +1,6 @@
 # ExMAS-plotting
 
-We conducted the experiment based on actual trip requests in New York City from 2016. The source files were uploaded here: https://zenodo.org/records/7437768. 
+We conducted the experiment based on actual trip requests in New York City from 2016. The source files were uploaded [here](https://zenodo.org/records/7437768). 
 The whole dataset comprises half a year of consistent data (24h/day). We divided the dataset into half hour batches. Each batch constitutes a separate demand structure (set of requests). Number of requests varies from 1 up to 315.
 
 All parameters are assumed constant during the analysis. To mention the few most important, we assume 
